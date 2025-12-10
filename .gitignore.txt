@@ -1,0 +1,31 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# VS Code
+.vscode/
+
+# Python
+*.pyc
+__pycache__/
+env/
+venv/
+.venv/
+*.pyo
+*.pyd
+.Python
+
+# Conda
+condaenv.*
+*.conda
+*.pickle
+
+# OS
+.DS_Store
+Thumbs.db
